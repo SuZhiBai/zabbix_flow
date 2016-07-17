@@ -1,0 +1,24 @@
+2016-04-05 14:03:42,666 auth.py[line:33] INFO Auth Successful. The Auth ID Is:819940a47910c3118d5f6fbad4acf4b3
+2016-04-05 14:03:42,786 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-04-05 14:03:42,897 get_items.py[line:61] INFO Number Of Hosts:8
+2016-04-05 14:03:42,897 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-04-05 14:03:42,897 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-04-05 14:03:42,898 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-04-05 14:03:42,898 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-04-05 14:03:42,898 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-04-05 14:03:42,899 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-04-05 14:03:42,899 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-04-05 14:03:42,899 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-04-05 14:03:43,003 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2
+2016-04-05 14:03:43,003 get_items.py[line:94] INFO ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-04-05 14:03:43,176 get_data.py[line:35] INFO Data taken from zabbix is:[{u'itemid': u'61945', u'ns': u'680679397', u'value': u'0', u'clock': u'1459836205'}]
+2016-04-05 14:03:43,177 get_data.py[line:81] INFO Send data for:{'cnmpRoom': u'\u4e2d\u5c71\u7535\u4fe1', 'flow': '0', 'key': 'b6325e06c7d94dc1619b520905e63cf6', 'nowtime': u'1459836205'}
+2016-04-05 14:03:43,177 get_data.py[line:51] INFO The requested URL is:http://192.168.190.181:9080/ipInterface/module/api/yw_flowMonitor.shtm?key=b6325e06c7d94dc1619b520905e63cf6&compRoom=中山电信&flow=0&nowtime=1459836205
+2016-04-05 14:03:43,355 get_data.py[line:58] INFO The received response is:1
+2016-04-05 14:03:43,458 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62
+2016-04-05 14:03:43,561 get_items.py[line:92] INFO HostName:长沙电信-124.232.142.250
+2016-04-05 14:03:43,664 get_items.py[line:92] INFO HostName:重庆电信-219.153.76.112
+2016-04-05 14:03:43,768 get_items.py[line:92] INFO HostName:成都电信-125.64.99.84
+2016-04-05 14:03:43,873 get_items.py[line:92] INFO HostName:泉州电信-27.152.191.148
+2016-04-05 14:03:43,981 get_items.py[line:92] INFO HostName:杭州电信2-183.131.5.94
+2016-04-05 14:03:44,086 get_items.py[line:92] INFO HostName:南昌电信-115.153.176.226

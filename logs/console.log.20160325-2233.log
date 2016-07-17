@@ -1,0 +1,518 @@
+2016-03-25 17:29:51,012 auth.py[line:33] INFO Auth Successful. The Auth ID Is:93d176763138676d5b32ca7b0ce05e07
+2016-03-25 17:31:26,500 auth.py[line:33] INFO Auth Successful. The Auth ID Is:adcb8b2160aa8691a0f0d7d55360dc83
+2016-03-25 17:49:17,213 auth.py[line:33] INFO Auth Successful. The Auth ID Is:860a6104aacc63b1fba8bf8edb1b3d29
+2016-03-25 17:49:17,316 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 17:49:17,425 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 17:54:06,960 auth.py[line:33] INFO Auth Successful. The Auth ID Is:f6d8efe2f463838d3e404515beb20a05
+2016-03-25 17:54:07,063 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 17:54:07,171 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 17:54:57,684 auth.py[line:33] INFO Auth Successful. The Auth ID Is:9387d4a7d2de7cc22b26693908eb45b0
+2016-03-25 17:54:57,786 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 17:54:57,891 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 17:54:57,891 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 17:54:57,892 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 17:54:57,892 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 17:54:57,892 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 17:54:57,893 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 17:54:57,893 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 17:54:57,894 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 17:54:57,894 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 18:12:17,161 auth.py[line:33] INFO Auth Successful. The Auth ID Is:bc77377f450bf643caa385f783b552a9
+2016-03-25 18:12:17,263 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 18:12:17,368 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 18:12:17,369 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 18:12:17,369 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 18:12:17,369 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 18:12:17,370 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 18:12:17,370 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 18:12:17,370 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 18:12:17,371 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 18:12:17,371 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 18:12:17,474 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 18:13:06,491 auth.py[line:33] INFO Auth Successful. The Auth ID Is:c5d2d624400d01dbea07f04ce8957cb3
+2016-03-25 18:13:06,594 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 18:13:06,699 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 18:13:06,699 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 18:13:06,699 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 18:13:06,700 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 18:13:06,700 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 18:13:06,700 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 18:13:06,701 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 18:13:06,701 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 18:13:06,701 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 18:13:06,806 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 18:13:30,099 auth.py[line:33] INFO Auth Successful. The Auth ID Is:abf770acc0ed0dab23d2fa2683839180
+2016-03-25 18:13:30,202 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 18:13:30,307 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 18:13:30,308 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 18:13:30,308 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 18:13:30,308 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 18:13:30,309 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 18:13:30,309 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 18:13:30,309 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 18:13:30,310 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 18:13:30,310 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 18:13:30,414 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 18:13:30,414 get_items.py[line:92] INFO Item ID:61945	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 18:13:30,522 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 18:13:30,522 get_items.py[line:92] INFO Item ID:61864	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 18:13:30,626 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:13:30,732 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:13:30,895 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:13:31,058 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:13:31,162 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:13:31,264 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:08,256 auth.py[line:33] INFO Auth Successful. The Auth ID Is:a2a96eb934790bf913707825df31fb21
+2016-03-25 18:16:08,356 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 18:16:08,461 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 18:16:08,461 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 18:16:08,461 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 18:16:08,462 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 18:16:08,462 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 18:16:08,462 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 18:16:08,463 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 18:16:08,463 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 18:16:08,463 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 18:16:08,565 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 18:16:08,566 get_items.py[line:92] INFO Item ID:61945	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 18:16:08,566 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 18:16:08,669 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 18:16:08,669 get_items.py[line:92] INFO Item ID:61864	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 18:16:08,669 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 18:16:08,773 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:08,773 get_items.py[line:99] INFO []
+2016-03-25 18:16:08,875 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:08,876 get_items.py[line:99] INFO []
+2016-03-25 18:16:08,982 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:08,983 get_items.py[line:99] INFO []
+2016-03-25 18:16:09,087 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:09,088 get_items.py[line:99] INFO []
+2016-03-25 18:16:09,190 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:09,190 get_items.py[line:99] INFO []
+2016-03-25 18:16:09,292 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 18:16:09,293 get_items.py[line:99] INFO []
+2016-03-25 21:38:44,442 auth.py[line:33] INFO Auth Successful. The Auth ID Is:2afcbca78cafcfec57f8ed8008641637
+2016-03-25 21:38:44,558 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:38:44,662 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:38:44,663 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:38:44,663 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:38:44,664 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:38:44,664 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:38:44,664 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:38:44,665 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:38:44,665 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:38:44,665 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:38:44,768 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 21:38:44,769 get_items.py[line:92] INFO Item ID:61945	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 21:38:44,769 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 21:38:44,876 get_items.py[line:90] INFO Number Of Hosts:1
+2016-03-25 21:38:44,877 get_items.py[line:92] INFO Item ID:61864	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 21:38:44,877 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 21:38:44,979 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 21:38:44,979 get_items.py[line:99] INFO []
+2016-03-25 21:38:45,083 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 21:38:45,083 get_items.py[line:99] INFO []
+2016-03-25 21:38:45,185 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 21:38:45,185 get_items.py[line:99] INFO []
+2016-03-25 21:38:45,289 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 21:38:45,289 get_items.py[line:99] INFO []
+2016-03-25 21:38:45,392 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 21:38:45,392 get_items.py[line:99] INFO []
+2016-03-25 21:38:45,494 get_items.py[line:90] INFO Number Of Hosts:0
+2016-03-25 21:38:45,494 get_items.py[line:99] INFO []
+2016-03-25 21:39:37,836 auth.py[line:33] INFO Auth Successful. The Auth ID Is:b59fab7d78d5b648ecde39267c3ea51b
+2016-03-25 21:39:37,939 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:39:38,046 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:39:38,046 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:39:38,047 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:39:38,047 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:39:38,047 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:39:38,047 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:39:38,048 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:39:38,048 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:39:38,048 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:39:38,154 get_items.py[line:92] INFO Item ID:61945	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 21:39:38,154 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 21:39:38,261 get_items.py[line:92] INFO Item ID:61864	HostName:ifHCOutOctets[Port-channel1]
+2016-03-25 21:39:38,261 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 21:39:38,363 get_items.py[line:99] INFO []
+2016-03-25 21:39:38,467 get_items.py[line:99] INFO []
+2016-03-25 21:39:38,569 get_items.py[line:99] INFO []
+2016-03-25 21:39:38,673 get_items.py[line:99] INFO []
+2016-03-25 21:39:38,780 get_items.py[line:99] INFO []
+2016-03-25 21:39:38,883 get_items.py[line:99] INFO []
+2016-03-25 21:42:10,646 auth.py[line:33] INFO Auth Successful. The Auth ID Is:9ccabbceebba9c8d814ecceb2d3121a6
+2016-03-25 21:42:10,747 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:42:10,855 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:42:10,855 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:42:10,856 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:42:10,856 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:42:10,857 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:42:10,857 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:42:10,857 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:42:10,858 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:42:10,858 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:42:10,962 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:42:10,962 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 21:42:11,065 get_items.py[line:92] INFO Item ID:61864	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:42:11,066 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 21:42:11,168 get_items.py[line:99] INFO []
+2016-03-25 21:42:11,269 get_items.py[line:99] INFO []
+2016-03-25 21:42:11,371 get_items.py[line:99] INFO []
+2016-03-25 21:42:11,474 get_items.py[line:99] INFO []
+2016-03-25 21:42:11,577 get_items.py[line:99] INFO []
+2016-03-25 21:42:11,687 get_items.py[line:99] INFO []
+2016-03-25 21:48:18,795 auth.py[line:33] INFO Auth Successful. The Auth ID Is:fb93848ad5e35ef0c4e0f3ecc01bec29
+2016-03-25 21:49:24,812 auth.py[line:33] INFO Auth Successful. The Auth ID Is:40520913adfd67c670a9a4f0b6ca80f7
+2016-03-25 21:49:24,813 get_data.py[line:9] INFO -------
+2016-03-25 21:49:24,915 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:49:25,020 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:49:25,021 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:49:25,021 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:49:25,021 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:49:25,022 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:49:25,022 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:49:25,022 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:49:25,023 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:49:25,023 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:49:25,125 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:50:30,706 auth.py[line:33] INFO Auth Successful. The Auth ID Is:c52ae026f0044b93947b534debce654e
+2016-03-25 21:50:30,707 get_data.py[line:10] INFO -------
+2016-03-25 21:50:30,809 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:50:30,917 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:50:30,917 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:50:30,917 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:50:30,918 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:50:30,918 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:50:30,918 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:50:30,919 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:50:30,919 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:50:30,919 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:50:31,022 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:52:25,729 auth.py[line:33] INFO Auth Successful. The Auth ID Is:d6347b9d5adcdd3a170385efc8053909
+2016-03-25 21:52:25,730 get_data.py[line:10] INFO -------
+2016-03-25 21:52:25,830 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:52:25,936 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:52:25,937 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:52:25,937 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:52:25,937 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:52:25,938 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:52:25,938 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:52:25,938 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:52:25,939 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:52:25,939 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:52:26,042 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:53:48,315 auth.py[line:33] INFO Auth Successful. The Auth ID Is:c06e650e25c8790e7c8218188931ccd9
+2016-03-25 21:53:48,421 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:53:48,528 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:53:48,528 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:53:48,529 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:53:48,529 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:53:48,529 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:53:48,530 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:53:48,530 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:53:48,530 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:53:48,530 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:53:48,636 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:55:19,818 auth.py[line:33] INFO Auth Successful. The Auth ID Is:a29a862b169fa3c9e559141ca75dc569
+2016-03-25 21:55:19,923 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:55:20,029 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:55:20,030 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:55:20,030 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:55:20,030 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:55:20,031 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:55:20,031 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:55:20,031 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:55:20,032 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:55:20,032 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:55:20,136 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:55:23,238 get_data.py[line:58] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 21:55:23,341 get_items.py[line:92] INFO Item ID:61864	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:55:26,440 get_data.py[line:58] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 21:56:50,582 auth.py[line:33] INFO Auth Successful. The Auth ID Is:4b8dbb3c19bf57e3615c103490558733
+2016-03-25 21:56:50,684 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 21:56:50,791 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 21:56:50,791 get_items.py[line:63] INFO Host ID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 21:56:50,791 get_items.py[line:63] INFO Host ID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 21:56:50,792 get_items.py[line:63] INFO Host ID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 21:56:50,792 get_items.py[line:63] INFO Host ID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 21:56:50,792 get_items.py[line:63] INFO Host ID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 21:56:50,793 get_items.py[line:63] INFO Host ID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 21:56:50,793 get_items.py[line:63] INFO Host ID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 21:56:50,793 get_items.py[line:63] INFO Host ID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 21:56:50,900 get_items.py[line:92] INFO Item ID:61945	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:56:54,000 get_data.py[line:58] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 21:56:54,106 get_items.py[line:92] INFO Item ID:61864	Item Name:ifHCOutOctets[Port-channel1]
+2016-03-25 21:56:57,205 get_data.py[line:58] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:07:40,659 auth.py[line:33] INFO Auth Successful. The Auth ID Is:8f23805abcc5f5428d1e59b75688a7e4
+2016-03-25 22:07:40,759 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:07:40,865 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:07:40,865 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:07:40,866 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:07:40,866 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:07:40,866 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:07:40,867 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:07:40,867 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:07:40,867 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:07:40,868 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:07:40,974 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2	ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:07:40,974 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:07:41,079 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62	ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:07:41,079 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:07:41,181 get_items.py[line:99] INFO []
+2016-03-25 22:07:41,287 get_items.py[line:99] INFO []
+2016-03-25 22:07:41,388 get_items.py[line:99] INFO []
+2016-03-25 22:07:41,492 get_items.py[line:99] INFO []
+2016-03-25 22:07:41,594 get_items.py[line:99] INFO []
+2016-03-25 22:07:41,697 get_items.py[line:99] INFO []
+2016-03-25 22:14:56,558 auth.py[line:33] INFO Auth Successful. The Auth ID Is:f5f693a018e9a405f0b03c30f273ac35
+2016-03-25 22:14:56,659 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:14:56,764 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:14:56,764 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:14:56,765 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:14:56,765 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:14:56,765 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:14:56,766 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:14:56,766 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:14:56,766 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:14:56,767 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:14:56,877 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2	ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:14:56,877 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:14:56,982 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62	ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:14:56,983 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:15:51,090 auth.py[line:33] INFO Auth Successful. The Auth ID Is:bd8f65893b451ae8683f4bad989ee5b8
+2016-03-25 22:15:51,192 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:15:51,296 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:15:51,297 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:15:51,297 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:15:51,297 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:15:51,298 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:15:51,298 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:15:51,298 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:15:51,299 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:15:51,299 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:16:18,573 auth.py[line:33] INFO Auth Successful. The Auth ID Is:b975628ea821c3c0587d23c36c4a96ac
+2016-03-25 22:16:18,672 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:16:18,778 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:16:18,779 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:16:18,779 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:16:18,779 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:16:18,780 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:16:18,780 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:16:18,780 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:16:18,781 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:16:18,781 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:16:52,798 auth.py[line:33] INFO Auth Successful. The Auth ID Is:b838245bf4d65a057d8e24f4cc0c5e7b
+2016-03-25 22:16:52,907 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:16:53,013 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:16:53,013 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:16:53,013 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:16:53,014 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:16:53,014 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:16:53,014 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:16:53,015 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:16:53,015 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:16:53,015 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:16:53,117 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2	ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:16:53,118 get_items.py[line:99] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:16:53,221 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62	ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:16:53,221 get_items.py[line:99] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:17:37,072 auth.py[line:33] INFO Auth Successful. The Auth ID Is:b6aa8006a9f20ac33a739ac2f1b57ecc
+2016-03-25 22:17:37,172 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:17:37,276 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:17:37,276 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:17:37,277 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:17:37,277 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:17:37,277 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:17:37,278 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:17:37,278 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:17:37,278 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:17:37,279 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:18:13,482 auth.py[line:33] INFO Auth Successful. The Auth ID Is:b2808de18ca379ae35578520b6ac251c
+2016-03-25 22:18:13,583 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:18:13,688 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:18:13,688 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:18:13,688 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:18:13,689 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:18:13,689 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:18:13,689 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:18:13,690 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:18:13,690 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:18:13,690 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:19:43,048 auth.py[line:33] INFO Auth Successful. The Auth ID Is:baf9b5f8bad59be50291d96756f58bd0
+2016-03-25 22:19:43,148 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:19:43,254 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:19:43,255 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:19:43,255 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:19:43,255 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:19:43,256 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:19:43,256 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:19:43,256 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:19:43,257 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:19:43,257 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:19:43,360 get_items.py[line:93] INFO HostName:中山电信-119.120.94.2	ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:19:43,360 get_items.py[line:100] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:19:43,464 get_items.py[line:93] INFO HostName:杭州电信-183.131.2.62	ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:19:43,465 get_items.py[line:100] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:19:43,569 get_items.py[line:100] INFO []
+2016-03-25 22:19:43,671 get_items.py[line:100] INFO []
+2016-03-25 22:19:43,774 get_items.py[line:100] INFO []
+2016-03-25 22:19:43,877 get_items.py[line:100] INFO []
+2016-03-25 22:19:43,981 get_items.py[line:100] INFO []
+2016-03-25 22:19:44,083 get_items.py[line:100] INFO []
+2016-03-25 22:20:14,600 auth.py[line:33] INFO Auth Successful. The Auth ID Is:720ed63b52e2fd45c228ed413a1d80ec
+2016-03-25 22:20:14,704 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:20:14,808 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:20:14,808 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:20:14,809 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:20:14,809 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:20:14,809 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:20:14,810 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:20:14,810 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:20:14,810 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:20:14,811 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:20:14,914 get_items.py[line:93] INFO HostName:中山电信-119.120.94.2	ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:20:14,914 get_items.py[line:100] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:20:15,018 get_items.py[line:93] INFO HostName:杭州电信-183.131.2.62	ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:20:15,018 get_items.py[line:100] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:20:15,120 get_items.py[line:100] INFO []
+2016-03-25 22:20:15,222 get_items.py[line:100] INFO []
+2016-03-25 22:20:15,324 get_items.py[line:100] INFO []
+2016-03-25 22:20:15,428 get_items.py[line:100] INFO []
+2016-03-25 22:20:15,531 get_items.py[line:100] INFO []
+2016-03-25 22:20:15,634 get_items.py[line:100] INFO []
+2016-03-25 22:21:31,422 auth.py[line:33] INFO Auth Successful. The Auth ID Is:097b61f6fbc4af62f3420aaeb0155e34
+2016-03-25 22:21:31,525 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:21:31,630 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:21:31,631 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:21:31,631 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:21:31,632 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:21:31,632 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:21:31,632 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:21:31,633 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:21:31,633 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:21:31,633 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:21:31,738 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2
+2016-03-25 22:21:31,738 get_items.py[line:94] INFO HostName:中山电信-119.120.94.2	ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:21:31,739 get_items.py[line:101] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:21:31,843 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62
+2016-03-25 22:21:31,843 get_items.py[line:94] INFO HostName:杭州电信-183.131.2.62	ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:21:31,844 get_items.py[line:101] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:21:31,949 get_items.py[line:92] INFO HostName:长沙电信-124.232.142.250
+2016-03-25 22:21:31,949 get_items.py[line:101] INFO []
+2016-03-25 22:21:32,051 get_items.py[line:92] INFO HostName:重庆电信-219.153.76.112
+2016-03-25 22:21:32,051 get_items.py[line:101] INFO []
+2016-03-25 22:21:32,153 get_items.py[line:92] INFO HostName:成都电信-125.64.99.84
+2016-03-25 22:21:32,153 get_items.py[line:101] INFO []
+2016-03-25 22:21:32,254 get_items.py[line:92] INFO HostName:泉州电信-27.152.191.148
+2016-03-25 22:21:32,254 get_items.py[line:101] INFO []
+2016-03-25 22:21:32,355 get_items.py[line:92] INFO HostName:杭州电信2-183.131.5.94
+2016-03-25 22:21:32,356 get_items.py[line:101] INFO []
+2016-03-25 22:21:32,458 get_items.py[line:92] INFO HostName:南昌电信-115.153.176.226
+2016-03-25 22:21:32,458 get_items.py[line:101] INFO []
+2016-03-25 22:22:21,054 auth.py[line:33] INFO Auth Successful. The Auth ID Is:10c8a6ab2ef9142a6c769babbdf3a4c9
+2016-03-25 22:22:21,156 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:22:21,261 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:22:21,261 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:22:21,262 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:22:21,262 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:22:21,262 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:22:21,263 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:22:21,263 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:22:21,263 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:22:21,264 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:22:21,366 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2
+2016-03-25 22:22:21,367 get_items.py[line:94] INFO ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:22:21,367 get_items.py[line:101] INFO [{u'itemid': u'61945', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:22:21,469 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62
+2016-03-25 22:22:21,470 get_items.py[line:94] INFO ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:22:21,470 get_items.py[line:101] INFO [{u'itemid': u'61864', u'key_': u'ifHCOutOctets[Port-channel1]'}]
+2016-03-25 22:22:21,571 get_items.py[line:92] INFO HostName:长沙电信-124.232.142.250
+2016-03-25 22:22:21,572 get_items.py[line:101] INFO []
+2016-03-25 22:22:21,674 get_items.py[line:92] INFO HostName:重庆电信-219.153.76.112
+2016-03-25 22:22:21,675 get_items.py[line:101] INFO []
+2016-03-25 22:22:21,779 get_items.py[line:92] INFO HostName:成都电信-125.64.99.84
+2016-03-25 22:22:21,779 get_items.py[line:101] INFO []
+2016-03-25 22:22:21,883 get_items.py[line:92] INFO HostName:泉州电信-27.152.191.148
+2016-03-25 22:22:21,883 get_items.py[line:101] INFO []
+2016-03-25 22:22:21,987 get_items.py[line:92] INFO HostName:杭州电信2-183.131.5.94
+2016-03-25 22:22:21,987 get_items.py[line:101] INFO []
+2016-03-25 22:22:22,089 get_items.py[line:92] INFO HostName:南昌电信-115.153.176.226
+2016-03-25 22:22:22,089 get_items.py[line:101] INFO []
+2016-03-25 22:23:40,182 auth.py[line:33] INFO Auth Successful. The Auth ID Is:4a79eec774bf956add9516c113badcf4
+2016-03-25 22:23:40,283 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:23:40,390 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:23:40,390 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:23:40,391 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:23:40,391 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:23:40,391 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:23:40,392 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:23:40,392 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:23:40,392 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:23:40,393 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:23:40,502 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2
+2016-03-25 22:23:40,503 get_items.py[line:94] INFO ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:23:43,601 get_data.py[line:58] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:23:43,712 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62
+2016-03-25 22:23:43,712 get_items.py[line:94] INFO ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:23:46,810 get_data.py[line:58] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:23:46,916 get_items.py[line:92] INFO HostName:长沙电信-124.232.142.250
+2016-03-25 22:23:47,018 get_items.py[line:92] INFO HostName:重庆电信-219.153.76.112
+2016-03-25 22:23:47,120 get_items.py[line:92] INFO HostName:成都电信-125.64.99.84
+2016-03-25 22:23:47,222 get_items.py[line:92] INFO HostName:泉州电信-27.152.191.148
+2016-03-25 22:23:47,323 get_items.py[line:92] INFO HostName:杭州电信2-183.131.5.94
+2016-03-25 22:23:47,427 get_items.py[line:92] INFO HostName:南昌电信-115.153.176.226
+2016-03-25 22:28:13,933 auth.py[line:33] INFO Auth Successful. The Auth ID Is:5978c1d20411ccf42a04f4a04626b44d
+2016-03-25 22:28:14,034 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:28:14,142 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:28:14,142 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:28:14,142 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:28:14,143 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:28:14,143 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:28:14,144 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:28:14,144 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:28:14,144 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:28:14,145 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:28:14,249 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2
+2016-03-25 22:28:14,249 get_items.py[line:94] INFO ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:28:14,348 get_data.py[line:52] INFO The requested URL is:http://192.168.190.181:9080/ipInterface/module/api/yw_flowMonitor.shtm?key=3a98c88f3f48a18bf614517018902ed6&compRoom=中山电信&flow=0&nowtime=1458916046
+2016-03-25 22:28:17,351 get_data.py[line:57] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:28:17,455 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62
+2016-03-25 22:28:17,455 get_items.py[line:94] INFO ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:28:17,551 get_data.py[line:52] INFO The requested URL is:http://192.168.190.181:9080/ipInterface/module/api/yw_flowMonitor.shtm?key=19faccdb003ed6890869137090e481b4&compRoom=杭州电信&flow=519&nowtime=1458869767
+2016-03-25 22:28:20,553 get_data.py[line:57] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:28:20,663 get_items.py[line:92] INFO HostName:长沙电信-124.232.142.250
+2016-03-25 22:28:20,766 get_items.py[line:92] INFO HostName:重庆电信-219.153.76.112
+2016-03-25 22:28:20,870 get_items.py[line:92] INFO HostName:成都电信-125.64.99.84
+2016-03-25 22:28:20,972 get_items.py[line:92] INFO HostName:泉州电信-27.152.191.148
+2016-03-25 22:28:21,074 get_items.py[line:92] INFO HostName:杭州电信2-183.131.5.94
+2016-03-25 22:28:21,176 get_items.py[line:92] INFO HostName:南昌电信-115.153.176.226
+2016-03-25 22:33:33,628 auth.py[line:33] INFO Auth Successful. The Auth ID Is:7ec7b3acc8b0a6a729d7e23f1f53dfe2
+2016-03-25 22:33:33,731 get_items.py[line:33] INFO Group Id:26	GroupName:switchs
+2016-03-25 22:33:33,838 get_items.py[line:61] INFO Number Of Hosts:8
+2016-03-25 22:33:33,839 get_items.py[line:63] INFO HostID:10428	HostName:中山电信-119.120.94.2
+2016-03-25 22:33:33,839 get_items.py[line:63] INFO HostID:10429	HostName:杭州电信-183.131.2.62
+2016-03-25 22:33:33,839 get_items.py[line:63] INFO HostID:10438	HostName:长沙电信-124.232.142.250
+2016-03-25 22:33:33,840 get_items.py[line:63] INFO HostID:10439	HostName:重庆电信-219.153.76.112
+2016-03-25 22:33:33,840 get_items.py[line:63] INFO HostID:10440	HostName:成都电信-125.64.99.84
+2016-03-25 22:33:33,840 get_items.py[line:63] INFO HostID:10441	HostName:泉州电信-27.152.191.148
+2016-03-25 22:33:33,841 get_items.py[line:63] INFO HostID:10442	HostName:杭州电信2-183.131.5.94
+2016-03-25 22:33:33,841 get_items.py[line:63] INFO HostID:10443	HostName:南昌电信-115.153.176.226
+2016-03-25 22:33:33,946 get_items.py[line:92] INFO HostName:中山电信-119.120.94.2
+2016-03-25 22:33:33,947 get_items.py[line:94] INFO ItemID:61945	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:33:34,045 get_data.py[line:35] INFO Data taken from zabbix is:[{u'itemid': u'61945', u'ns': u'385308334', u'value': u'0', u'clock': u'1458916405'}]
+2016-03-25 22:33:34,045 get_data.py[line:81] INFO Send data for:{'cnmpRoom': u'\u4e2d\u5c71\u7535\u4fe1', 'flow': '0', 'key': 'bbe7732f03fb2d6e601ca4e0c51fac39', 'nowtime': u'1458916405'}
+2016-03-25 22:33:34,046 get_data.py[line:51] INFO The requested URL is:http://192.168.190.181:9080/ipInterface/module/api/yw_flowMonitor.shtm?key=bbe7732f03fb2d6e601ca4e0c51fac39&compRoom=中山电信&flow=0&nowtime=1458916405
+2016-03-25 22:33:37,048 get_data.py[line:56] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:33:37,152 get_items.py[line:92] INFO HostName:杭州电信-183.131.2.62
+2016-03-25 22:33:37,153 get_items.py[line:94] INFO ItemID:61864	ItemName:ifHCOutOctets[Port-channel1]
+2016-03-25 22:33:37,250 get_data.py[line:35] INFO Data taken from zabbix is:[{u'itemid': u'61864', u'ns': u'211071737', u'value': u'544604848', u'clock': u'1458869767'}]
+2016-03-25 22:33:37,251 get_data.py[line:81] INFO Send data for:{'cnmpRoom': u'\u676d\u5dde\u7535\u4fe1', 'flow': '519', 'key': '19faccdb003ed6890869137090e481b4', 'nowtime': u'1458869767'}
+2016-03-25 22:33:37,251 get_data.py[line:51] INFO The requested URL is:http://192.168.190.181:9080/ipInterface/module/api/yw_flowMonitor.shtm?key=19faccdb003ed6890869137090e481b4&compRoom=杭州电信&flow=519&nowtime=1458869767
+2016-03-25 22:33:40,254 get_data.py[line:56] INFO The server could not fulfill the request:<urlopen error [Errno 113] No route to host>
+2016-03-25 22:33:40,357 get_items.py[line:92] INFO HostName:长沙电信-124.232.142.250
+2016-03-25 22:33:40,460 get_items.py[line:92] INFO HostName:重庆电信-219.153.76.112
+2016-03-25 22:33:40,562 get_items.py[line:92] INFO HostName:成都电信-125.64.99.84
+2016-03-25 22:33:40,664 get_items.py[line:92] INFO HostName:泉州电信-27.152.191.148
+2016-03-25 22:33:40,767 get_items.py[line:92] INFO HostName:杭州电信2-183.131.5.94
+2016-03-25 22:33:40,870 get_items.py[line:92] INFO HostName:南昌电信-115.153.176.226
